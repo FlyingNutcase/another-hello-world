@@ -1,28 +1,28 @@
 DCS
-	+ Get familair with basic GitHub
+	Get familiar with basic GitHub
 		- Put Moose.lua, Moose Mission Master and My Missions in a GH repo; hard link them to the DCS Missions folder
 		- Fork Moose.lua?
 			
-	+ Controller Mapping
+	Controller Mapping
 		- Paint.NET for layered controller diagram
 		- Try out JS Gremlin (with vJoy) for controller mapping
 		
-	+ Scripting
+	Scripting
 	  - script auto load
 	  - get callbacks working
 	  - get familiar with Eclipse
 		- document the random convoy code
 		
-	+ Mission Editor
+	Mission Editor
 		- carrier takeoffs
 		
-	+ Voice Attack
+	Voice Attack
 	 
- + Flying
+ 	Flying
  		- carrier takeoffs & landings
 		- basoc nav
 		
-	+ Weapons
+	Weapons
 		- Auto bombing
 		- Drag bomb bombing practice
 		- SAM evasion - chaff, flares, maneuvres
